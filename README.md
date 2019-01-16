@@ -19,3 +19,6 @@ MNIST dataset consists of 60,000 28x28 grayscale images of the 10 digits, along 
   - Without Batch normalization
 - 5 hidden layers
   - With Batch normalization and dropouts
+
+# Acknowledgements
+<a href="https://www.appliedaicourse.com/"> AppliedAICourse </a>
